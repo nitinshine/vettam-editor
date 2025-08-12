@@ -50,6 +50,9 @@ cd vettam-editor
 npm install
 npm run start
 
+1️⃣ ** working directory**
+master
+
 ## 📸 Screenshots
 
 ![Editor](public/screen1.png)
